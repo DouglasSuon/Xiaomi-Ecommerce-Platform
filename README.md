@@ -17,14 +17,10 @@
 ### Android
 
 <div align=center>
-<![Screenshot_20231228_161040](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/b6e0cd6e-e95c-4823-b0af-62151ec276fb)
- alt="首页"/>
-<![Screenshot_20231228_161031](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/15b1f8e6-5640-420c-a729-661d2fc1964a)
-/>
-<![Screenshot_20231228_161029](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/9fcbb0b5-5e5b-4e5c-9710-bb29f9493f49)
-/>
-<![Screenshot_20231228_145550](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/51ee8f3f-ee49-414e-b62b-b0fe9c3a6e5c)
-/>
+[Screenshot_20231228_161040](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/b6e0cd6e-e95c-4823-b0af-62151ec276fb)
+[Screenshot_20231228_161031](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/15b1f8e6-5640-420c-a729-661d2fc1964a)
+[Screenshot_20231228_161029](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/9fcbb0b5-5e5b-4e5c-9710-bb29f9493f49)
+[Screenshot_20231228_145550](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/51ee8f3f-ee49-414e-b62b-b0fe9c3a6e5c)
 
 </div>
 
