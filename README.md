@@ -17,11 +17,27 @@
 ### Android
 
 <div align=center>
-[Screenshot_20231228_161040](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/b6e0cd6e-e95c-4823-b0af-62151ec276fb)
-[Screenshot_20231228_161031](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/15b1f8e6-5640-420c-a729-661d2fc1964a)
-[Screenshot_20231228_161029](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/9fcbb0b5-5e5b-4e5c-9710-bb29f9493f49)
-[Screenshot_20231228_145550](https://github.com/DouglasSuon/Xiaomi-Ecommerce-Platform/assets/66365903/51ee8f3f-ee49-414e-b62b-b0fe9c3a6e5c)
-
+<img src="./screenshots/android 1.jpg" width="200" alt="首页"/>
+<img src="./screenshots/android 2.jpg" width="200"/>
+<img src="./screenshots/android 3.jpg" width="200"/>
+<img src="./screenshots/android 4.jpg" width="200"/>
+<img src="./screenshots/android 5.jpg" width="200"/>
+<img src="./screenshots/android 6.jpg" width="200"/>
+<img src="./screenshots/android 7.jpg" width="200"/>
+<img src="./screenshots/android 8.jpg" width="200"/>
+<img src="./screenshots/android 9.jpg" width="200"/>
+<img src="./screenshots/android 10.jpg" width="200"/>
+<img src="./screenshots/android 11.jpg" width="200"/>
+<img src="./screenshots/android 12.jpg" width="200"/>
+<img src="./screenshots/android 13.jpg" width="200"/>
+<img src="./screenshots/android 14.jpg" width="200"/>
+<img src="./screenshots/android 15.jpg" width="200"/>
+<img src="./screenshots/android 16.jpg" width="200"/>
+<img src="./screenshots/android 17.jpg" width="200"/>
+<img src="./screenshots/android 18.jpg" width="200"/>
+<img src="./screenshots/android 19.jpg" width="200"/>
+<img src="./screenshots/android 20.jpg" width="200"/>
+<img src="./screenshots/android 21.jpg" width="200"/>
 </div>
 
 ## Done
