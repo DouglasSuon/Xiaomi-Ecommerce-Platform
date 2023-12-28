@@ -17,27 +17,27 @@
 ### Android
 
 <div align=center>
-<img src="./screenshots/android 1.jpg" width="200" alt="首页"/>
-<img src="./screenshots/android 2.jpg" width="200"/>
-<img src="./screenshots/android 3.jpg" width="200"/>
-<img src="./screenshots/android 4.jpg" width="200"/>
-<img src="./screenshots/android 5.jpg" width="200"/>
-<img src="./screenshots/android 6.jpg" width="200"/>
-<img src="./screenshots/android 7.jpg" width="200"/>
-<img src="./screenshots/android 8.jpg" width="200"/>
-<img src="./screenshots/android 9.jpg" width="200"/>
-<img src="./screenshots/android 10.jpg" width="200"/>
-<img src="./screenshots/android 11.jpg" width="200"/>
-<img src="./screenshots/android 12.jpg" width="200"/>
-<img src="./screenshots/android 13.jpg" width="200"/>
-<img src="./screenshots/android 14.jpg" width="200"/>
-<img src="./screenshots/android 15.jpg" width="200"/>
-<img src="./screenshots/android 16.jpg" width="200"/>
-<img src="./screenshots/android 17.jpg" width="200"/>
-<img src="./screenshots/android 18.jpg" width="200"/>
-<img src="./screenshots/android 19.jpg" width="200"/>
-<img src="./screenshots/android 20.jpg" width="200"/>
-<img src="./screenshots/android 21.jpg" width="200"/>
+<img src="./screenshots/Android 1.jpg" width="200" alt="首页"/>
+<img src="./screenshots/Android 2.jpg" width="200"/>
+<img src="./screenshots/Android 3.jpg" width="200"/>
+<img src="./screenshots/Android 4.jpg" width="200"/>
+<img src="./screenshots/Android 5.jpg" width="200"/>
+<img src="./screenshots/Android 6.jpg" width="200"/>
+<img src="./screenshots/Android 7.jpg" width="200"/>
+<img src="./screenshots/Android 8.jpg" width="200"/>
+<img src="./screenshots/Android 9.jpg" width="200"/>
+<img src="./screenshots/Android 10.jpg" width="200"/>
+<img src="./screenshots/Android 11.jpg" width="200"/>
+<img src="./screenshots/Android 12.jpg" width="200"/>
+<img src="./screenshots/Android 13.jpg" width="200"/>
+<img src="./screenshots/Android 14.jpg" width="200"/>
+<img src="./screenshots/Android 15.jpg" width="200"/>
+<img src="./screenshots/Android 16.jpg" width="200"/>
+<img src="./screenshots/Android 17.jpg" width="200"/>
+<img src="./screenshots/Android 18.jpg" width="200"/>
+<img src="./screenshots/Android 19.jpg" width="200"/>
+<img src="./screenshots/Android 20.jpg" width="200"/>
+<img src="./screenshots/Android 21.jpg" width="200"/>
 </div>
 
 ## Done
