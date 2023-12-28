@@ -1,7 +1,7 @@
 # 小米商城app
 
 <div align=center>
-<img src="./screenshot/iOS/appicon.png" width="200"/>
+<img src="./screenshot/xiaomiicon.png" width="200"/>
 </div>
 
 
