@@ -128,35 +128,6 @@
 | main.dart |   |   |  项目入口文件 | 
 
 
-### 使用插件
-
-> 后续功能会增加插件的使用
-
-```
-  flutter_localizations
-  cupertino_icons: ^1.0.2
-  dio: ^5.0.2
-  get: ^4.6.5
-  flutter_screenutil: ^5.7.0
-  shared_preferences: ^2.0.18
-  flutter_swiper_view: ^1.1.8
-  flutter_staggered_grid_view: ^0.6.2
-  flutter_html: ^3.0.0-alpha.5
-  flutter_spinkit: ^5.1.0
-  flutter_easyloading: ^3.0.3
-  pull_to_refresh: ^2.0.0
-  pin_code_fields: ^7.4.0
-  roundcheckbox: ^2.0.5
-  city_pickers: ^1.2.1
-  crypto: ^3.0.2
-  flutter_swipe_action_cell: ^3.1.0
-  webview_flutter: ^4.0.5
-  flutter_native_splash: ^2.2.19
-  image_picker: ^0.8.6+4
-  barcode_scan2: ^4.2.3
-  badges: ^3.0.3
-```
-
 ## ToDo
 
 ### Improve
